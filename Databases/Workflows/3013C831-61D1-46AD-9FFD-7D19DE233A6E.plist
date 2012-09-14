@@ -23,11 +23,11 @@
 			<key>odcreatecomputergroups</key>
 			<string>NO</string>
 			<key>odserver</key>
-			<string>server.macsysadmin.com</string>
+			<string>odm.macsysadmin.com</string>
 			<key>odssl</key>
 			<string>YES</string>
 			<key>odtrustedbinding</key>
-			<string>YES</string>
+			<string>NO</string>
 			<key>targettype</key>
 			<string>lastselectedtarget</string>
 			<key>task</key>
