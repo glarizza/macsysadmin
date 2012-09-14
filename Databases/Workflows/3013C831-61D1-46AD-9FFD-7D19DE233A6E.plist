@@ -6,6 +6,36 @@
 	<string>3013C831-61D1-46AD-9FFD-7D19DE233A6E</string>
 	<key>meta</key>
 	<string>NO</string>
+	<key>steps</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>automate</key>
+			<string>YES</string>
+			<key>computeridkey</key>
+			<string>cn</string>
+			<key>odadmin</key>
+			<string>diradmin</string>
+			<key>odadminpassword</key>
+			<string>aWpRaUhhd01KcEk9</string>
+			<key>odclientmanagement</key>
+			<string>NO</string>
+			<key>odcreatecomputergroups</key>
+			<string>NO</string>
+			<key>odserver</key>
+			<string>server.macsysadmin.com</string>
+			<key>odssl</key>
+			<string>YES</string>
+			<key>odtrustedbinding</key>
+			<string>YES</string>
+			<key>targettype</key>
+			<string>lastselectedtarget</string>
+			<key>task</key>
+			<string>opendirectory</string>
+			<key>title</key>
+			<string>Open Directory binding</string>
+		</dict>
+	</dict>
 	<key>title</key>
 	<string>OD Bind</string>
 </dict>
